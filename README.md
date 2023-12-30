@@ -1,2 +1,2 @@
 # gitignore-dotnet-mac
-A .gitignore file for developing .NET application on a Mac
+A .gitignore file for developing .NET applications on a Mac
